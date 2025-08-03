@@ -39,6 +39,6 @@ The app converts speech to text and sends it via Bluetooth (HC-05) to Arduino UN
 Arduino reads the incoming command through the serial port.
 If the command is "ON", the LED lights up. If it's "OFF", the LED turns off.
 
-
+*OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/d5abd2ae-7e89-4b1a-abc4-6dec5c3d2a6b
